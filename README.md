@@ -1,8 +1,6 @@
 
 <h2>절대강좌! 유니티 - 리소스 파일</h2>
 
-[Monster.zip](https://drive.google.com/open?id=153GNakgUXecd5eUFSS-8LMOWcKOZ4Wvg)
-
 "절대강좌! 유니티" 책에서 사용하는 리소스 파일입니다.
 이 리소스는 개인 공부의 목적으로 만 사용하셔야 합니다.
 
